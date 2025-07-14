@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "7D0C56BB-7453-497B-84EE-5D5BBB203691"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B760F0A0-46A5-4301-9AC2-CF0FF72FE428"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Reminder/Sources/Features/Splash/SplashView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "SplashView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "B760F0A0-46A5-4301-9AC2-CF0FF72FE428 - 8c1f309e067b010e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reminder.SplashView.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Reminder.SplashView&gt;"
+                  moduleName = "Reminder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alyssoneduardo/Documents/Reminder/Reminder/Sources/Features/Splash/SplashView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0">
+               </Location>
+               <Location
+                  uuid = "B760F0A0-46A5-4301-9AC2-CF0FF72FE428 - c37a17a559faf16f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Reminder.SplashView.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Reminder.SplashView&gt;"
+                  moduleName = "Reminder.debug.dylib"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alyssoneduardo/Documents/Reminder/Reminder/Sources/Features/Splash/SplashView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
